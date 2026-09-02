@@ -8,6 +8,7 @@ public class App {
         //Variaveis
         Scanner entrada = new Scanner(System.in);
         boolean operadorAutenticado = false;
+        System.out.println("você tem 3 tentativas");
 
         //CONSTANTE (final)
         final int SENHA_OPERADOR = 8888;
